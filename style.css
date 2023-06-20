@@ -1,0 +1,15 @@
+#body{
+    background-color:palegreen;
+}
+
+#webcam,#result{
+    border:2px red solid;
+}
+
+label{
+    font-size:30px;
+}
+
+#webcam_1{
+    height:800px; width:600px;
+}
